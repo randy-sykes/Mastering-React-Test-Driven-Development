@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.2.5",
-    "faker": "^6.6.6",
+    "faker": "^5.5.3",
     "jest": "^24.1.0",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
